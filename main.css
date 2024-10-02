@@ -1,0 +1,25 @@
+@font-face {
+    font-family: pixel;
+    src: url('Font/Perfect\ DOS.ttf');
+}
+
+html, body, button, div, p {
+    font-family: pixel;
+}
+
+body {
+    background-image: url('Images/Background.png');
+    background-size: 800px;
+}
+
+
+.norm {
+    text-align: center;
+}
+
+.project {
+    text-align: center;
+    text-decoration: underline;
+    color: magenta;
+    font-size: x-large;
+}
